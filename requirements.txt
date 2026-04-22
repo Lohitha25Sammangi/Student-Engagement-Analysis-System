@@ -1,0 +1,10 @@
+streamlit==1.40.1
+opencv-python==4.10.0.84
+imutils==0.5.4
+numpy==1.26.4
+pandas==2.2.3
+Pillow==10.4.0
+python-dateutil==2.9.0.post0
+sqlalchemy==2.0.23
+tensorflow==2.15.0
+jsonschema==4.23.0
